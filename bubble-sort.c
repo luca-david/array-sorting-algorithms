@@ -1,12 +1,2 @@
-#include <stdio.h>
-
-static void sort(void)
-{
-	// TODO: add bubble sort algoritm here
-
-}
-
-int main()
-{
-	return 0;
-}
+Algoritmul sorteaza crescator un vector de numere intregi 
+citit la tastatura
