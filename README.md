@@ -1,1 +1,1 @@
-We implement 3 soritng algorithms for integer arrays
+The bubble sort algorithm sorts the array in ascending order.
